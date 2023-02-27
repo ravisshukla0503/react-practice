@@ -9,7 +9,7 @@ function Useref() {
 
       count.current = count.current + 1; // useref returns an obj current
     });**/
-
+// also store previous value
 
   const inputelement = useRef("");
   const styletype = ()=>{

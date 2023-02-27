@@ -1,3 +1,6 @@
+//it is similar to lifecylcle methods like component did mount did update and unmount
+// we can do all this thing by using useffect
+
 import React,{useState,useEffect} from 'react'
 
 function Useeffect() {

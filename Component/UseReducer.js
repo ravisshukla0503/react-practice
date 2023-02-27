@@ -1,3 +1,6 @@
+//it is similar to usesatate but we use usestate for num bool string value and
+// usereducer for array and object value and also when we have to write complex logic.
+
 import React, { useReducer } from 'react'
 const intialstate=0;
 const reducer=(state,action)=>{
